@@ -17,7 +17,14 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"sAttackSquare","order":3,"path":"sprites/sAttackSquare/sAttackSquare.yy",},
     {"name":"sWep","order":2,"path":"sprites/sWep/sWep.yy",},
+    {"name":"move_player","order":1,"path":"scripts/move_player/move_player.yy",},
+    {"name":"oAttackSq","order":2,"path":"objects/oAttackSq/oAttackSq.yy",},
+    {"name":"sAttackSqPointer","order":4,"path":"sprites/sAttackSqPointer/sAttackSqPointer.yy",},
+    {"name":"sTextBox","order":5,"path":"sprites/sTextBox/sTextBox.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"approach","order":2,"path":"scripts/approach/approach.yy",},
     {"name":"sEnemy","order":1,"path":"sprites/sEnemy/sEnemy.yy",},
   ],
 }
